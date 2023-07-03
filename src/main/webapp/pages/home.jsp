@@ -5,6 +5,6 @@
     <title>Title</title>
 </head>
 <body>
-       <h1>I love Java 1.8</h1>
+<h1>Welcome! <b style="color:DodgerBlue;">${name}</b></h1>
 </body>
 </html>
